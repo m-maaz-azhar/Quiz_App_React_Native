@@ -1,0 +1,97 @@
+[
+    {
+        "id": 0,
+        "question": "What is the full form of HTML",
+        "answer": "Hyper Text Markup Language",
+        "options": [
+            {
+                "label": "Hyper Test Make up Language"
+            },
+            {
+                "label": "Hyper Text Markup Language"
+            },
+            {
+                "label": "Hyper Text Made up Language"
+            },
+            {
+                "label": "None of these"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "question": "What is the full form of RAM ?",
+        "answer": "Random Access Memory",
+        "options": [
+            {
+                "label": "Random Access Memory"
+            },
+            {
+                "label": "Randomely Access Memory"
+            },
+            {
+                "label": "Run Aceapt Memory"
+            },
+            {
+                "label": "None of these"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question": "What is the full form of CPU?",
+        "answer": "Central Processing Unit",
+        "options": [
+            {
+                "label": "Central Program Unit"
+            },
+            {
+                "label": "Central Processing Unit"
+            },
+            {
+                "label": "Central Preload Unit"
+            },
+            {
+                "label": "None of these"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question": "What is the full form of AI",
+        "answer": "Artificial Intelligence",
+        "options": [
+            {
+                "label": "Adobe Illustrator"
+            },
+            {
+                "label": "Available Intern"
+            },
+            {
+                "label": "Artificial Intelligence"
+            },
+            {
+                "label": "Available In"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question": "What is the full form of E-mail",
+        "answer": "Electronic Mail",
+        "options": [
+            {
+                "label": "Electronic Mail"
+            },
+            {
+                "label": "Electric Mail"
+            },
+            {
+                "label": "Engine Mail"
+            },
+            {
+                "label": "None of these"
+            }
+        ]
+    }
+]
