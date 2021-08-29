@@ -5,8 +5,8 @@ import {
   TextInput,
   TouchableOpacity,
   View,
-  AsyncStorage,
 } from 'react-native';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 
 function StartQuiz(props) {
 

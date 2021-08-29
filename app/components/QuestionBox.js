@@ -4,8 +4,8 @@ import {
   View,
   TouchableOpacity,
   StyleSheet,
-  AsyncStorage,
 } from 'react-native';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 import RadioButtonRN from 'radio-buttons-react-native';
 
 function QuestionBox(props) {

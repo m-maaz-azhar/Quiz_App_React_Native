@@ -1,11 +1,11 @@
 import React, {useEffect, useState} from 'react';
 import {
-  AsyncStorage,
   StyleSheet,
   Text,
   TouchableOpacity,
   View,
 } from 'react-native';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 import AppBar from '../components/AppBar';
 import Footer from '../components/Footer';
 
